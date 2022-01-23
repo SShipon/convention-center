@@ -1,0 +1,11 @@
+#btn-hero {
+  padding: 10px 20px;
+  background-color: #ffffff;
+  color: #3f87f5;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.carousel-img img{
+    width: 100%;
+    width: 50%;
+}
