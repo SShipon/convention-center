@@ -1,3 +1,6 @@
+body{
+  background-color: #E5E5E5;
+}
 #btn-hero {
   padding: 10px 20px;
   background-color: #ffffff;
@@ -8,4 +11,30 @@
 .carousel-img img{
     width: 100%;
     width: 50%;
+}
+.fas{
+  background-color: #dfddec;
+  color: #5243C2;
+  padding: 5px;
+  border-radius: 50%;
+}
+.btn-hero-btn{
+  background-color:#f1c9e3 ;
+  color: #3F87F5;
+  padding: 10px 15px;
+  border-radius: 10px;
+
+}
+.bg-package{
+  color: #E5E5E5;
+  padding: 40px 0px;
+  border-radius: 10px;
+}
+.bg-package .bg-icon{
+   color: whitesmoke;
+  background-color:  #4a7dc8;
+}
+.card-body img{
+  width: 360px;
+  height: 320px;
 }
