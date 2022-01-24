@@ -49,14 +49,9 @@ p{
    color: whitesmoke;
   background-color:  #4a7dc8;
 }
-.main-footer img{
-  transform: rotate(90deg);
-  transition: transform 3s ease-in-out;
- 
-}
+
 .main-footer img:hover{
   transform: rotate(180deg);
   transition: transform 2s ease-in-out;
   
- 
 }
